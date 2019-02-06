@@ -18,7 +18,8 @@ class ViewController: UIViewController {
         buttonCount = buttonCount + 1
         
         print(buttonCount)
-        /* this is a commut test
+        // this is a commut test
+        // this is a second comment test
         if buttonCount >= 10 {
             
         view.backgroundColor = UIColor.red
